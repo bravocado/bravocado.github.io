@@ -1,3 +1,11 @@
-# A Repository for bravocado.github.io
+Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
 
-Using [Jekyll](http://jekyllrb.com). And a theme from [MDO](https://github.com/poole/lanyon). Thanks to them!
+Credits:
+
+* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
+* Font Awesome [http://fontawesome.io](http://fontawesome.io)
+* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
+* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
+* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
+* There are also tools like jQuery, Modernizr, Normalize.
+* [@hmfaysal](https://twitter.com/hmfaysal)
