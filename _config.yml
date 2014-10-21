@@ -9,7 +9,7 @@ wpm:			  200
 dropcap:		  true
 theme:			  blue
 nprogress:        true
-header_bg:        brvcd.jpg
+header_bg:        wantmetoo.jpg
 author_bg:		  brvcd.jpg
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
